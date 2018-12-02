@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">A1 Widget</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="artichokes">Artichokes</string>
+    <string name="pizza">Pizza</string>
+    <string name="quinoa_salad">Quinoa Salad</string>
+    <string name="stuffed_mushrooms">Stuffed mushrooms</string>
+</resources>
